@@ -1,11 +1,13 @@
-# Pixel Experience #
+# XOSP #
+
+## source is basically unbootable so keep your dirty hands away ##
 
 ### Sync ###
 
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/PixelExperience/manifest -b eleven
+repo init -u git://github.com/XOSP-Reborn/manifest.git -b eleven
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
@@ -19,14 +21,12 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 $ . build/envsetup.sh
 
 # Choose a target
-$ lunch aosp_$device-userdebug
+$ lunch xosp_$device-userdebug
 
 # Build the code
 $ mka bacon -jX
 ```
 
-### Submitting Patches ###
+### Applying Maintainership ###
 
-Patches are always welcome! Please submit your patches to our Gerrit.
-
-[Gerrit push guide](https://wiki.pixelexperience.org/help/submit-patch/)
+soon not now
