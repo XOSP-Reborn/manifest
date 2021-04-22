@@ -22,6 +22,8 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xosp" />
+
   <!-- vendor -->
   <project path="vendor/xosp" name="vendor_xosp" remote="xosp" />
   <project path="vendor/xperia" name="vendor_xperia" remote="xosp" />
