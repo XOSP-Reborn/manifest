@@ -27,6 +27,19 @@ $ lunch xosp_$device-userdebug
 $ mka bacon -jX
 ```
 
+### Credits and thanks ### 
+
+- PixelExperience
+
+- TenX OS
+
+- Rick Astley
+
+- Curtana bois
+
+ROM proudly made with gitpod :)
+
+
 ### Applying Maintainership ###
 
 soon not now
