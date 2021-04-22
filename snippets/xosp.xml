@@ -3,7 +3,7 @@
 
   <remote name="xosp"
           fetch="https://github.com/XOSP-Reborn"
-          revision="eleven" >
+          revision="eleven" />
 
   <project path="manifest" name="manifest" remote="xosp" />
 
