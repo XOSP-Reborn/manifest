@@ -1,4 +1,8 @@
-# XOSP #
+# XOSP but reborn #
+
+<p align="center">
+ <img src="https://github.com/XOSP-Reborn/manifest/blob/eleven/banner.jpg" > 
+</p>
 
 ## source is basically unbootable so keep your dirty hands away ##
 
