@@ -28,4 +28,7 @@
   <project path="vendor/xosp" name="vendor_xosp" remote="xosp" />
   <project path="vendor/xperia" name="vendor_xperia" remote="xosp" />
 
+  <!-- Framework repos -->
+  <project path="frameworks/base" name="fwb" remote="xosp" />
+
 </manifest>
