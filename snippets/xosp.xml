@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="xosp"
-          fetch="https://github.com/XOSP-Reborn"
+          fetch="git@github.com/XOSP-Reborn"
           revision="eleven" />
 
   <project path="manifest" name="manifest" remote="xosp" />
