@@ -29,6 +29,6 @@
   <project path="vendor/xperia" name="vendor_xperia" remote="soni" />
 
   <!-- Framework repos -->
-  <project path="frameworks/base" name="fwb" remote="soni" />
+  <project path="frameworks/base" name="frameworks_base" remote="soni" />
 
 </manifest>
