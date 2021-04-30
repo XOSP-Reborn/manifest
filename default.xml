@@ -844,7 +844,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
-  <!-- Add all XOSP-Reborn Repos -->
-  <include name="snippets/xosp.xml" />
+  <!-- Add all SoniUI Repos -->
+  <include name="snippets/soni.xml" />
 
 </manifest>

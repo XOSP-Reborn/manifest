@@ -1,12 +1,6 @@
-# XOSP but reborn #
+# Soni UI #
 
-<p align="center">
- <img src="https://github.com/XOSP-Reborn/manifest/blob/eleven/banner.jpg" > 
-</p>
-
-## source is basically unbootable so keep your dirty hands away ##
-
-### Sync ###
+## This org will be abandoned when Android 12 Comes. We'll make a new org by then. ## 
 
 ```bash
 
@@ -25,7 +19,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 $ . build/envsetup.sh
 
 # Choose a target
-$ lunch xosp_$device-userdebug
+$ lunch sony_$device-userdebug
 
 # Build the code
 $ mka bacon -jX
