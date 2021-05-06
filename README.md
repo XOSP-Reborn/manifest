@@ -38,6 +38,6 @@ $ mka bacon -jX
 ROM proudly made with gitpod :)
 
 
-### Applying Maintainership ###
+### Applying Maintainership / buliding help ###
 
-soon not now
+Refer to the docs [here](https://github.com/XOSP-Reborn/docs)
