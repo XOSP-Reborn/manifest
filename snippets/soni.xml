@@ -30,5 +30,6 @@
 
   <!-- Framework repos -->
   <project path="frameworks/base" name="frameworks_base" remote="soni" />
+  <project path="frameworks/native" name="frameworks_native" remote="soni" />
 
 </manifest>
